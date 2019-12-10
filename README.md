@@ -14,6 +14,11 @@ The link to the exact page for this data is [here](https://www.kaggle.com/felipe
   
 The script requires that the files be formatted in the following:  
   
+  
+#### Main Folder:
+
+/head-ct-hemorrhage/
+
 #### Images:  
 
 /head-ct-hemorrgage/head_ct/000.png
