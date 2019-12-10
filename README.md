@@ -10,6 +10,25 @@ This python script relies on:
 ## Data
 The data for this project was obtained from [Kaggle](https://www.kaggle.com).  
 The link to the exact page for this data is [here](https://www.kaggle.com/felipekitamura/head-ct-hemorrhage).
+  
+  
+The script requires that the files be formatted in the following:  
+  
+Images:  
+
+/head-ct-hemorrgage/head_ct/000.png
+.  
+.  
+.  
+/head-ct-hemorrgage/head_ct/199.png  
+
+Labels:  
+
+/head-ct-hemorrgage/labels.csv  
+
+Script:  
+
+/head-ct-hemorrgage/head_ct_cnn.py  
 
 
 ## Running the Script
