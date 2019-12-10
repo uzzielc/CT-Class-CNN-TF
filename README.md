@@ -7,6 +7,11 @@ This python script relies on:
 - [OpenCV](https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_gui/py_image_display/py_image_display.html) (for image manipulation)
 - [TensorFlow](https://www.tensorflow.org) (Neural Network Framework)
 
+## Data
+The data for this project was obtained from [Kaggle](https://www.kaggle.com).  
+The link to the exact page for this data is [here](https://www.kaggle.com/felipekitamura/head-ct-hemorrhage).
+
+
 ## Running the Script
 Run the script in the command line by using:
 python3 head_ct_cnn.py \<flag\>  
