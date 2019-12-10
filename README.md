@@ -14,7 +14,7 @@ The link to the exact page for this data is [here](https://www.kaggle.com/felipe
   
 The script requires that the files be formatted in the following:  
   
-Images:  
+#### Images:  
 
 /head-ct-hemorrgage/head_ct/000.png
 .  
@@ -22,11 +22,11 @@ Images:
 .  
 /head-ct-hemorrgage/head_ct/199.png  
 
-Labels:  
+#### Labels:  
 
 /head-ct-hemorrgage/labels.csv  
 
-Script:  
+#### Script:  
 
 /head-ct-hemorrgage/head_ct_cnn.py  
 
