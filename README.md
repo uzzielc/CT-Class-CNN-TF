@@ -15,7 +15,7 @@ The link to the exact page for this data is [here](https://www.kaggle.com/felipe
 ## Running the Script
 Run the script in the command line by using:
 python3 head_ct_cnn.py \<flag\>  
-where flag can be:  
+where \<flag\> can be:  
 - -h (help)
 - --te (train model & evaluate)
 - --le (load weights & params & evaluate)
