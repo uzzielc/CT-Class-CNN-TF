@@ -8,9 +8,14 @@ This python script relies on:
 - [TensorFlow](https://www.tensorflow.org) (Neural Network Framework)
 
 ## Running the Script
+Run the script in the command line by using:
+python3 head_ct_cnn.py \<flag\>  
+where flag can be:  
+- -h (help)
+- --te (train model & evaluate)
+- --le (load weights & params & evaluate)
+- --lte (load weights & params, train model, & evaluate)
 
 ## Performance
 
 ## Discussion
-
-
